@@ -1,10 +1,10 @@
 ---
-title: Bowl with Dragons
+title: Coal
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: images/cropped-theme-essay-header.jpg
-header-title: Bowl with Dragons
+header-image: essays/coal/images/coal-breaker.jpg
+header-title: Coal
 header-tier: banner
 header-position: center
 thumbnail: images/bowl-with-dragons.jpg
@@ -19,7 +19,7 @@ tags:
   - iconography
 ---
 
-# Bowl with Dragons
+# Coal
 
 This is sample content. Replace it with your own object and keep the shape.
 
