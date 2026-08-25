@@ -3,11 +3,11 @@ title: Coal
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: /images/coal-breaker.jpg
+header-image: images/coal-breaker.jpg
 header-title: Coal
 header-tier: banner
 header-position: center
-thumbnail: /images/coal.jpg
+thumbnail: images/coal.jpg
 summary: A collection of raw coal. 
 geo: [38.1026, 46.3646]
 placename: Tabriz, Iran
