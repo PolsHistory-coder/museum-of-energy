@@ -15,7 +15,7 @@ These are the essays
    | where_exp: "p", "p.path != 'essays.md'" %}
 
 {% include nav/gallery-grid.html
-  items=objects
+  items=essays
   variant="uniform"
   min-width="200px"
   show-summary=true
