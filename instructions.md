@@ -58,27 +58,35 @@ At the very top of `index.md`, you'll see something like:
 
 ```yaml
 ---
-author: student name
-title: "Your Title"
-layout: scrollstory
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+title: Coal
+layout: base
+author: Your Name
+date: 2026-01-01
+header-image: images/coal-breaker.jpg
+header-title: Coal
+header-tier: banner
+header-position: center
+thumbnail: images/coal.jpg
+summary: A collection of raw coal. 
+geo: [47.4865, 102.4974]
+placename: Mongolia
+medium: 
+object-date: 2022
+collection: Wikimedia Commons
 tags:
-  - object
+  - coal
+  - energy
 ---
 ```
 
-1. Change the `author` to to your name. 
-2. Change the `title` to match your actual project.
-3. Do not change the `layout`.
-4. Once you have images, you can change `header-image` and `thumbnail`.
+1. Change the `title` to match your actual project. 
+2. Do not change the `layout`.
+3. Change the `author` to to your name. 
+4. Once you have images, you can change `header-image` and `thumbnail`. You do not need to change the other header fields.
 5. For `summary` write a short sentence that will appear in the little card for the file.
-6. For each object file, go to Google Maps and right-click on a location to get its coordinates. Then replace the numbers in `geo`.
-7. For each object file, replace the `placename`.
-8. Add at least three keywords for your `tags` by replacing the word `object` and adding to the list by typing a hyphen to the left of each new keyword.
+6. For each object file, go to Google Maps and right-click on a location to get its coordinates. Then replace the numbers in `geo`. Keep only four decimal places.
+7. Replace the `placename`.
+8. Add at least two keywords for your `tags`.
 
 
 ### Add Your Content
@@ -88,9 +96,8 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 
 ### Add Your Images
 
-1. In the code editor, right-click on your `images/` folder
-2. Select **"Upload..."** and choose image files from your computer
-3. Once uploaded, you can reference them in your `index.md` file by copy-pasting code such as in the following example:
+1. In the code editor, drag image files from your computer into your `images/` folder
+2. Once uploaded, you can reference them in your `index.md` file by copy-pasting code such as in the following example:
 
 ```
 {%raw%}
@@ -99,10 +106,14 @@ Below the `---` lines, replace the sample content with your own writing, analysi
   width="40%"
   caption="What a nice view"
   alt-text="Color photograph showing some hiking trails in a canyon of the Sandia foothills."
-  image-path="/assets/images/backgrounds/hike-1.jpg"
+  image-path="images/coal-1.jpg"
 %}
 {%endraw%}
 ```
+
+**Image path tips:**
+- A common error is when people type out the image path and accidentally make a typo
+- Also, pay extra attention to the file type, since **jpg** is not the same a **jpeg**
 
 **Image naming tips:**
 - Use **lowercase only** (no capitals)
@@ -117,8 +128,12 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 1. Open the code editor in your browser (press `.` key)
 2. Click the file you want to edit in the left sidebar
 3. Type to make changes
-4. Press **Ctrl+S** (or **Cmd+S** on Mac) to save
-5. Your changes appear on your website automatically!
+4. Click on the flow chart icon on the left
+5. Enter a brief message
+6. Click the `Commmit & Push` button
+7. You can watch the yellow circle spin in the Actions menu on your repository
+8. If you get a green check, you're good!
+9. If you get a red circle with an X, you must stop and investigate. Visit our [Troubleshooting page](https://amaranth.unm.edu/history-of-energy/docs/reference/troubleshooting.html) to help you figure out what to fix.
 
 
 ### Using Markdown

@@ -6,5 +6,7 @@
   url: "/map"
 - title: "Instructions for Students"
   url: "/instructions"
+- title: "Troubleshooting"
+  url: "/troubleshooting"
 - title: "Docs"
   url: "/docs"
