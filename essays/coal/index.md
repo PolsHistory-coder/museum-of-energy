@@ -3,20 +3,20 @@ title: Coal
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: essays/coal/images/coal-breaker.jpg
+header-image: essays/coal/images/coal.jpg
 header-title: Coal
 header-tier: banner
 header-position: center
-thumbnail: images/bowl-with-dragons.jpg
-summary: Coiled dragons meet at the centre of a glazed bowl, in a motif read by some scholars as a device against eclipses.
+thumbnail: essays/coal/images/coal.jpg
+summary: A collection of raw coal. 
 geo: [38.1026, 46.3646]
 placename: Tabriz, Iran
 medium: Glazed ceramic
 object-date: 607 AH / 1210 CE
 collection: The Metropolitan Museum of Art
 tags:
-  - ceramics
-  - iconography
+  - coal
+  - energy
 ---
 
 # Coal
@@ -24,7 +24,7 @@ tags:
 This is sample content. Replace it with your own object and keep the shape.
 
 {% include images/figure-wrap.html
-  image-path="images/bowl-with-dragons.jpg"
+  image-path="essays/coal/images/coal.jpg"
   image-position="right"
   image-width="42%"
   alt-text="Glazed bowl seen from above, with coiled dragons meeting at the centre"
