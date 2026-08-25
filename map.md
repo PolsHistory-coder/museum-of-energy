@@ -14,8 +14,8 @@ opens onto the catalogue facts already written there — nothing on this page is
 a second list to keep in step with the first.
 
 {% include nav/map.html
-  folder="objects"
-  fields="object-date,medium,collection"
+  folder="essays"
+  fields="summary,object-date,medium,collection"
   class="map-wrap--wide"
   height="70vh"
 %}
