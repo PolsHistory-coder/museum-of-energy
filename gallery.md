@@ -16,10 +16,11 @@ or tabbed to, so the pictures have the page to themselves.
 
 {% assign essays = site.pages
    | where_exp: "p", "p.path contains 'essays/'"
+   | where_exp: "p", "p.path contains 'index.md'"
    | where_exp: "p", "p.path != 'essays.md'" %}
 
 {% include nav/gallery-grid.html
-  items=objects
+  items=essays
   variant="masonry"
   min-width="220px"
   show-summary=true
