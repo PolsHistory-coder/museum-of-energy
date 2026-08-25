@@ -18,7 +18,6 @@ a second list to keep in step with the first.
   fields="object-date,medium,collection"
   class="map-wrap--wide"
   height="70vh"
-  zoom=4
 %}
 
 ## Putting an object on the map
