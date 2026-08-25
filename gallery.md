@@ -14,9 +14,9 @@ wide dish stays wide, because the proportions of a thing are part of what a
 picture of it tells you. Titles and summaries wait until a tile is hovered over
 or tabbed to, so the pictures have the page to themselves.
 
-{% assign objects = site.pages
-   | where_exp: "p", "p.path contains 'objects/'"
-   | where_exp: "p", "p.path != 'objects.md'" %}
+{% assign essays = site.pages
+   | where_exp: "p", "p.path contains 'essays/'"
+   | where_exp: "p", "p.path != 'essays.md'" %}
 
 {% include nav/gallery-grid.html
   items=objects
