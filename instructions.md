@@ -5,7 +5,7 @@ layout: base
 
 # Getting Started with Your Class Project Site
 
-**Welcome!** This page guides you through setting up your own project folder in the repository you have forked the History of Energy repository. 
+**Welcome!** This page guides you through setting up your own project folder in the repository you have forked the Museum of Energy repository. 
 
 ## What You Have
 

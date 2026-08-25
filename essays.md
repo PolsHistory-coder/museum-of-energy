@@ -8,7 +8,7 @@ summary: Essays
 # Essays
 
 {: .lede}
-These are the essays
+These are the essays that provide curatorial statements for the objects created for the Museum of History.
 
 {% assign essays = site.pages
    | where_exp: "p", "p.path contains 'essays/'"

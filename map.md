@@ -2,13 +2,13 @@
 title: Map
 layout: default
 date: 2026-01-01
-summary: Every object that carries coordinates, placed where it was made — the collection read as a geography rather than a list.
+summary: Every object that carries coordinates, placed where it was made — the collection reads as a geography rather than a list.
 ---
 
-# Where the Objects Come From
+# Locations Featured in the Museum of Energy
 
 {: .lede}
-The same collection, arranged by place instead of by folder. An object appears
+The same collection, arranged by place instead of by folder. An essay appears
 here as soon as its front matter carries `geo:` coordinates, and its marker
 opens onto the catalogue facts already written there — nothing on this page is
 a second list to keep in step with the first.
