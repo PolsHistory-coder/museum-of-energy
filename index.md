@@ -1,15 +1,15 @@
 ---
-title: Object Collection Template
+title: History of Energy
 layout: base
 date: 2026-01-01
-summary: A starter site for collections built around things — artefacts, sites, specimens, places — where each object gets its own page and the directory assembles itself.
+summary: A website about the History of Energy
 
 hero:
-  image: /objects/bowl-with-dragons/images/cropped-theme-essay-header.jpg
-  alt: Detail of a glazed bowl with coiled dragon iconography
-  kicker: An object collection built with Xanthan
-  title: Your Collection Name Goes Here
-  text: Everything on this page is a placeholder. Three sample objects are included so you can see the shape of a finished collection before you replace them with your own.
+  image: /assets/images/backgrounds/kashima-oil-east-gate-night.jpg
+  alt: Kashima Oil Refinery
+  kicker: A Museum
+  title: History of Energy
+  text: The objects profiled on this website tell history with energy at the center.
   buttons:
     - label: Browse the Objects
       url: /objects
