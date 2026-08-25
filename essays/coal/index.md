@@ -3,11 +3,11 @@ title: Coal
 layout: base
 author: Your Name
 date: 2026-01-01
-header-image: essays/coal/images/coal.jpg
+header-image: /images/coal-breaker.jpg
 header-title: Coal
 header-tier: banner
 header-position: center
-thumbnail: essays/coal/images/coal.jpg
+thumbnail: /images/coal.jpg
 summary: A collection of raw coal. 
 geo: [38.1026, 46.3646]
 placename: Tabriz, Iran
@@ -24,7 +24,7 @@ tags:
 This is sample content. Replace it with your own object and keep the shape.
 
 {% include images/figure-wrap.html
-  image-path="essays/coal/images/coal.jpg"
+  image-path="/images/coal.jpg"
   image-position="right"
   image-width="42%"
   alt-text="Glazed bowl seen from above, with coiled dragons meeting at the centre"
