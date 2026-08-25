@@ -12,8 +12,8 @@ summary: A collection of raw coal.
 geo: [38.1026, 46.3646]
 placename: Tabriz, Iran
 medium: Glazed ceramic
-object-date: 607 AH / 1210 CE
-collection: The Metropolitan Museum of Art
+object-date: 2022
+collection: Wikimedia Commons
 tags:
   - coal
   - energy
