@@ -1,4 +1,6 @@
 ---
+
+
 title: History of Energy
 layout: base
 date: 2026-01-01
