@@ -24,7 +24,7 @@ tags:
 This is sample content. Replace it with your own object and keep the shape.
 
 {% include images/figure-wrap.html
-  image-path="/images/coal.jpg"
+  image-path="images/coal.jpg"
   image-position="right"
   image-width="42%"
   alt-text="Glazed bowl seen from above, with coiled dragons meeting at the centre"
