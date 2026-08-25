@@ -15,11 +15,11 @@ picture of it tells you. Titles and summaries wait until a tile is hovered over
 or tabbed to, so the pictures have the page to themselves.
 
 {% assign objects = site.pages
-   | where_exp: "p", "p.path contains 'essays/'"
-   | where_exp: "p", "p.path != 'essays/index.md'" %}
+   | where_exp: "p", "p.path contains 'objects/'"
+   | where_exp: "p", "p.path != 'objects.md'" %}
 
 {% include nav/gallery-grid.html
-  items=essays
+  items=objects
   variant="masonry"
   min-width="220px"
   show-summary=true
