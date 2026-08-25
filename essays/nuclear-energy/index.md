@@ -4,7 +4,7 @@ layout: base
 author: Your Name
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
-header-title: Head of the Buddha
+header-title: Nuclear Energy
 header-tier: banner
 header-position: center 38%
 thumbnail: images/first-four-bulbs.jpeg
