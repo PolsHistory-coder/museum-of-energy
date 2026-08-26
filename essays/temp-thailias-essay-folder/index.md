@@ -1,7 +1,7 @@
 ---
-title: My Essay Topic
+title: Nuclear Energy
 layout: base
-author: Thailia Stallings
+author: Your Name
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
 header-title: Nuclear Energy
@@ -19,7 +19,7 @@ tags:
   - civilian
 ---
 
-# My Essay Topic
+# Nuclear Energy
 
 This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. My name is Thailia. 
 
