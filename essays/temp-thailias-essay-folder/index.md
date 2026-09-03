@@ -1,5 +1,5 @@
 ---
-title: Nuclear Energy
+title: Kerosene Lamp
 layout: base
 author: Your Name
 date: 2026-01-01
@@ -7,7 +7,7 @@ header-image: images/rancho-seco.jpg
 header-title: Nuclear Energy
 header-tier: banner
 header-position: center 38%
-thumbnail: images/first-four-bulbs.jpeg
+thumbnail: images/images.jpg
 summary: The first four light bulbs powered by nuclear energy in 1951.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
@@ -19,7 +19,7 @@ tags:
   - civilian
 ---
 
-# Kerocene Lamp
+# Kerosene Lamp
 
 For my essay, I want to talk about the kerosene lamp and its importance in the history of energy. 
 
