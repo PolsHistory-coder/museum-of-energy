@@ -1,22 +1,22 @@
 ---
 title: Kerosene Lamp
 layout: base
-author: Your Name
+author: Thailia Stallings. 
 date: 2026-01-01
 header-image: images/rancho-seco.jpg
-header-title: Nuclear Energy
+header-title: Oil Light
 header-tier: banner
 header-position: center 38%
 thumbnail: images/images.jpg
-summary: The first four light bulbs powered by nuclear energy in 1951.
+summary: History of kerosene lamps. 
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
 medium: 
 object-date: 1951
 collection: 
 tags:
-  - nuclear
-  - civilian
+  - Kerosene 
+  - Lamp
 ---
 
 # Kerosene Lamp
