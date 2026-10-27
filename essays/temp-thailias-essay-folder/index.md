@@ -1,5 +1,5 @@
 ---
-title: Kerosene Lamp
+title: Roman Oil Lamp
 layout: base
 author: Thailia Stallings. 
 date: 2026-01-01
@@ -8,20 +8,20 @@ header-title: Oil Light
 header-tier: banner
 header-position: center 38%
 thumbnail: images/images.jpg
-summary: History of kerosene lamps. 
+summary: History Of The Roman Oil Lamp 
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
 medium: 
 object-date: 1951
 collection: 
 tags:
-  - Kerosene 
+  - Roman Oil 
   - Lamp
 ---
 
-# Kerosene Lamp
+# Roman Oil Lamp
 
-For my essay, I want to talk about the kerosene lamp and its importance in the history of energy. 
+For my essay, I want to talk about the roman oil lamp and its importance in the history of energy. 
 
 {% include images/figure.html
   image-path="images/images.jpg"
@@ -32,7 +32,8 @@ For my essay, I want to talk about the kerosene lamp and its importance in the h
 
 
 
- I think the kerosene lamp was a huge part of the transition to regular people being able to use energy in their everyday lives. Before kerosene lamps became common, people depended on candles, whale oil, and other forms of lighting that were not always affordable or practical. Kerosene made lighting more accessible to ordinary households and allowed people to extend their daily activities after dark. I want to explore how this simple object represents a larger change in how people used, understood, and depended on energy. 
+ For my essay, I want to talk about the Roman oil lamp and its importance in the history of energy. I think the Roman oil lamp was an important part of how people used energy in their everyday lives before modern lighting existed. People used oil as fuel to create light, which allowed them to continue their daily activities after dark. I want to explore how this simple object shows the ways people used natural resources to meet their needs and how lighting was connected to everyday life in ancient Rome. By looking at the Roman oil lamp, I hope to better understand how people depended on different energy sources before electricity became common.
+
 
 
 This is how you will create footnotes on your webpage.[^1]

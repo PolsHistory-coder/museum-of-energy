@@ -3,11 +3,11 @@ title: My Essay Topic
 layout: base
 author: Thailia Stallings
 date: 2026-01-01
-header-image: images/rancho-seco.jpg
+header-image: Roman oil lamp/rancho-seco.jpeg
 header-title: Nuclear Energy
 header-tier: banner
 header-position: center 38%
-thumbnail: images/first-four-bulbs.jpeg
+thumbnail: Roman oil lamp/first-four-bulbs.jpeg
 summary: The first four light bulbs powered by nuclear energy in 1951.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
