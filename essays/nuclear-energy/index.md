@@ -1,22 +1,23 @@
 ---
-title: My Essay Topic
+title: A Simple Flame: The Roman Oil Lamp
 layout: base
 author: Thailia Stallings
 date: 2026-01-01
-header-image: Roman oil lamp/rancho-seco.jpeg
-header-title: Nuclear Energy
+header-image: Roman oil lamp/Roman oil lamp.jpeg
+header-title: Lighting Life in Ancient Rome
 header-tier: banner
 header-position: center 38%
-thumbnail: Roman oil lamp/first-four-bulbs.jpeg
-summary: The first four light bulbs powered by nuclear energy in 1951.
+thumbnail: Roman oil lamp/Roman oil lamp.jpeg
+summary: Explaining how a simple clay lamp helped people produce light in ancient Rome. 
 geo: [43.5197, -112.0469]
-placename: Argonne National Laboratory in Idaho
-medium: 
-object-date: 1951
-collection: 
+placename: Ancient Rome
+medium: #D-printed Roman Oil Lamp
+object-date: 3rd century BCE- 5th century CE
+collection: Museum of Energy
 tags:
-  - nuclear
-  - civilian
+  - ancient Rome
+  - lighting
+
 ---
 
 # My Essay Topic
