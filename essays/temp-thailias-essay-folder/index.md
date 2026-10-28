@@ -3,11 +3,11 @@ title: A Simple Flame: The Roman Oil Lamp
 layout: base
 author: Thailia Stallings. 
 date: 2026-01-01
-header-image: Roman Oil Lamp/Roman oil lamp.jpg
+header-image: images/Roman-lamp.jpg
 header-title: Lighting Life in Ancient Rome
 header-tier: banner
 header-position: center 38%
-thumbnail: Roman oil lamp/Roman oil lamp.jpg
+thumbnail: images/Roman-lamp.jpg
 summary: Exploring how a simple clay lamp helped people produce light in ancient Rome. 
 geo: [43.5197, -112.0469]
 placename: Ancient Rome
@@ -25,7 +25,7 @@ tags:
 For my History of Energy project, I chose a Roman oil lamp because I wanted to learn more about one of the simplest ways people produced light before electricity. I think it is interesting how something so small can tell us about everyday life in ancient Rome. I wanted to choose an object that people actually used in their daily lives and explore how it connects to the history of energy.
 
 {% include images/figure.html
-  image-path="Roman lamp/Roman lamp.jpg"
+  image-path="images/Roman-lamp.jpg"
   image-width="55%"
   alt-text="A Roman oil lamp made to hold oil and a wick."
   caption="A Roman oil lamp used for lighting in the ancient world. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
@@ -48,7 +48,7 @@ I chose the Roman oil lamp because it is a simple example of how people used the
 For the project, I am using a Roman oil lamp design that can be turned into a 3D-printed model. Looking at the shape of the lamp helps me understand how it was designed to hold fuel and support a wick. The printed model will also let me examine its different parts more closely. Even though the model is not an original ancient artifact, it can help me study the design of an object that people used in the past.
 
 {% include images/figure.html
-  image-path="3D lamp/3D lamp.jpg"
+  image-path="images/3D.jpg"
   image-width="55%"
   alt-text="My 3D-printed model of a Roman oil lamp."
   caption="My 3D-printed model of a Roman oil lamp for the History of Energy project."
