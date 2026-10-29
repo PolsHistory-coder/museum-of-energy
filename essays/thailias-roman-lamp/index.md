@@ -7,7 +7,7 @@ header-image: images/lamp.jpg
 header-title: Lighting Life in Ancient Rome
 header-tier: banner
 header-position: center
-thumbnail: images/coal.jpg
+thumbnail: images/lamp.jpg
 summary: Exploring how a simple clay lamp helped people produce light in ancient Rome. 
 geo: [47.4865, 102.4974]
 placename: Rome, Italy
