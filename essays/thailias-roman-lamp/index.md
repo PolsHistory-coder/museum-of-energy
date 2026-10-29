@@ -29,15 +29,16 @@ For my History of Energy project, I chose a Roman oil lamp because I wanted to l
   image-position="right"
   image-width="42%"
   alt-text="A Roman oil lamp designed to hold oil and support a wick."
-  caption="[Wikimedia Commons](https://commons.wikimedia.org), open access."
-  text="This object carries `geo` coordinates in its front matter, which is all it takes to put it on the [map](../../map). Objects without coordinates simply do not appear there — nothing else needs configuring.
-
-Where an image is worth reading alongside the text rather than beneath it, `figure-wrap` sets the two side by side. Use plain `figure.html` when the image should stand on its own."
+  caption="[https://www.der-roemer-shop.de/Oil-Lamps), open access."
+  text="Roman oil lamps were made by shaping clay in molds and putting the two halves together. After adding holes for the oil and wick, the lamp was left to dry and then baked in a kiln to make it hard enough to use."
 %}
 
-This is sample text that you will replace. Your essay on a particular topic in the History of Energy will explain the background and the object you chose to 3D print. The assignment has been designed with twofold intent in mind. First, quite simply the idea is to introduce students to digital humanities and its potential in learning and pedagogical skill set in a upper division class. Second, students will be encouraged to consider the modes and mediums through which a traditional research paper, and all the skills that go into it, can be transferred to other aspects of critical analysis. Students will consider a particular object – the precise nature and shape of which will be decided in consultation with the class instructor – and how it embodies some of the salient themes in this class on history of energy. The object could be specific to a particular society, culture or form of technology but must explore an illustrative example of a history that has not been covered in this class. 
+## How Did Roman Oil Lamps Work? 
 
-This is how you will create footnotes on your webpage.[^1]
+Roman oil lamps were small lamps that held oil and used a wick to create a flame. The oil traveled through the wick, which allowed it to burn and produce light. Most lamps were made from clay, and some had different designs and decorations on top.
+
+These lamps were useful because people could carry them around and use them inside their homes. They gave people a way to have light after the sun went down instead of depending only on daylight. The light was not as bright as the lights we have today, but it still helped people see in the dark.
+
 
 [^1]: Author, *Title* (Publisher, Year), 00.
 
