@@ -1,39 +1,38 @@
----
-title: A Simple Flame: The Roman Oil Lamp
+\title: A Simple Flame: The Roman Oil Lamp
 layout: base
-author: Thailia Stallings. 
+author: Thailia Stallings
 date: 2026-01-01
-header-image: images/Roman-lamp.jpg
+header-image: images/roman-lamp.jpg
 header-title: Lighting Life in Ancient Rome
 header-tier: banner
 header-position: center 38%
-thumbnail: images/Roman-lamp.jpg
-summary: Exploring how a simple clay lamp helped people produce light in ancient Rome. 
-geo: [43.5197, -112.0469]
-placename: Ancient Rome
+thumbnail: images/roman-lamp.jpg
+summary: Exploring how a simple clay lamp helped people produce light in ancient Rome.
+geo: [41.9028, 12.4964]
+placename: Rome, Italy
 medium: 3D-printed Roman oil lamp
 object-date: 3rd century BCE - 5th century CE
 collection: Museum of Energy
 tags:
-  - ancient Rome
+  - ancient-rome
   - lighting
+  - energy-history
 ---
-
-# Roman Oil Lamp
-
+## Roman Oil Lamp
 
 For my History of Energy project, I chose a Roman oil lamp because I wanted to learn more about one of the simplest ways people produced light before electricity. I think it is interesting how something so small can tell us about everyday life in ancient Rome. I wanted to choose an object that people actually used in their daily lives and explore how it connects to the history of energy.
 
 {% include images/figure.html
-  image-path="images/Roman-lamp.jpg"
-  image-width="55%"
-  alt-text="A Roman oil lamp made to hold oil and a wick."
-  caption="A Roman oil lamp used for lighting in the ancient world. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
+  class="right"
+  width="55%"
+  caption="A Roman oil lamp used for lighting in the ancient world."
+  alt-text="A Roman oil lamp designed to hold oil and support a wick."
+  image-path="images/roman-lamp.jpg"
 %}
 
 ## What Was a Roman Oil Lamp?
 
- Roman oil lamps were small objects that people used to provide light. Many were made from clay and had a small reservoir to hold oil, along with an opening for a wick. Olive oil was a common fuel, and the wick carried the oil to the flame. These lamps came in different shapes and sizes. Some were plain, while others had decorations, patterns, or images on them. This makes them interesting to study because they were both useful objects and examples of Roman craftsmanship.
+Roman oil lamps were small objects that people used to provide light. Many were made from clay and had a reservoir to hold oil, along with an opening for a wick. Olive oil was a common fuel, and the wick carried the oil to the flame. These lamps came in different shapes and sizes. Some were plain, while others had decorations, patterns, or images on them. This makes them interesting to study because they were both useful objects and examples of Roman craftsmanship.
 
 ## Lighting in Everyday Life
 
@@ -48,32 +47,17 @@ I chose the Roman oil lamp because it is a simple example of how people used the
 For the project, I am using a Roman oil lamp design that can be turned into a 3D-printed model. Looking at the shape of the lamp helps me understand how it was designed to hold fuel and support a wick. The printed model will also let me examine its different parts more closely. Even though the model is not an original ancient artifact, it can help me study the design of an object that people used in the past.
 
 {% include images/figure.html
-  image-path="images/3D.jpg"
-  image-width="55%"
-  alt-text="My 3D-printed model of a Roman oil lamp."
+  class="right"
+  width="55%"
   caption="My 3D-printed model of a Roman oil lamp for the History of Energy project."
+  alt-text="My 3D-printed model of a Roman oil lamp."
+  image-path="images/3D-printed-lamp.jpg"
 %}
 
+## Energy and the Roman Oil Lamp
 
-
-This is how you will create footnotes on your webpage.[^1]
-
-[^1]: Author, *Title* (Publisher, Year), 00.
-
-## This is a section header - replace this text with a section title for your web essay
-
-This is sample text that you will replace. You will be expected to think about an object to your topic in the History of Energy. Then you will trace online an image that could best help generate a 3D printed object. Your own website will be under construction and published via GitHub. 
-
-## This is a section header - replace this text with a section title for your web essay
-
-This is sample text that you will replace. Please note that, depending on the complexity of your object, the 3D printing can take any where from 6 hours-48 hours. The submission of the physical object that you printed, an image of which will be uploaded on the website, with an accompanying text of 1000-1200 words will be considered to be the final submission. 
-
-{% include typography/pullquote.html text="A pull quote lifts a line out of the argument so a reader scanning the page still meets it." %}
-
-Add as many sections as your webpage essay needs. Delete the ones it does not.
-
----
+The Roman oil lamp shows how people used fuel to produce light before electricity became available. The oil stored in the lamp provided the fuel, while the wick helped carry the oil to the flame. This process depended on both the materials used to make the lamp and the fuel needed to operate it. Although the lamp was a relatively simple technology, it helped people produce light when sunlight was not available. Studying this object shows how energy has been part of everyday life for a long time, even when the technologies used to access it were very different from those we use today.
 
 ## Bibliography
 
-- Author. *Title*. Publisher, Year.
+Add the sources you actually used for your research and images here. Include the creator, title, website or publisher, and URL where available.
