@@ -75,16 +75,24 @@ For this project, I used a Roman oil lamp as the inspiration for my 3D model. I 
 
 Making the model also helped me understand the different parts of the lamp, including where the oil was stored, where the wick went, and where the flame burned. Even though we use very different types of lighting today, the Roman oil lamp is a good example of how people used the materials and technology they had to solve everyday problems.
 
-Source: 
+
 
 {% include images/figure-wrap.html
   image-path="images/3Dlamp.jpeg"
   image-position="right"
   image-width="42%"
-  alt-text="A Roman oil lamp designed to hold oil and support a wick."
-  caption="[https://www.der-roemer-shop.de/Oil-Lamps), open access."
-  text="Roman oil lamps were made by shaping clay in molds and putting the two halves together. After adding holes for the oil and wick, the lamp was left to dry and then baked in a kiln to make it hard enough to use."
+  alt-text="This 3D model was created with help from the Amaranth Lab at UNM."
+  caption="[https://amaranth.unm.edu/), open access."
+  text="The 3D model is a reddish-brown lamp with a flat, oval-shaped body. It has two openings on top, a raised design in the middle, and decorative lines along the sides. The surface is a little rough and uneven, but it still has the basic shape and details of a Roman oil lamp."
 %}
+
+## Conclusion
+
+The Roman oil lamp is a good example of how people have used energy in their everyday lives for thousands of years. People needed light to do things after sunset, but the technology they had was very different from what we use today.
+
+Learning about Roman oil lamps and comparing them with modern lighting helped me understand how much lighting has changed over time. It is not just about having brighter lights, but also about how people work, study, and spend their time. At the same time, not everyone has the same access to energy, even today.
+
+Today, electricity and artificial lighting are things many of us take for granted, but even a small oil lamp made a big difference in people's lives. This project helped me see how something as simple as a lamp can connect to bigger topics like technology, society, and inequality.
 
 ## Bibliography
 
